@@ -1,0 +1,10 @@
+#pragma once
+#ifndef _TOKENIZING_H  
+#define _CRT_SECURE_NO_WARNINGS 
+#include <stdio.h>    //includes standard input and output library
+#include <string.h>   // includes string library
+#define TRUE 1       // defines const True as 1
+
+ void tokenizing(); // defines structure tokenizing as no input or return value.
+
+#endif // !_TOKENIZING_H
